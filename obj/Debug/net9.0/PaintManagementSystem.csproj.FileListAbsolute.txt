@@ -12,3 +12,4 @@ C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\refint\PaintManagementSyst
 C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.pdb
 C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.genruntimeconfig.cache
 C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\ref\PaintManagementSystem.dll
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.sourcelink.json
