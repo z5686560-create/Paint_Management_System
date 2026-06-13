@@ -1,0 +1,14 @@
+C:\Users\16628\PaintManagementSystem\bin\Debug\net9.0\PaintManagementSystem.exe
+C:\Users\16628\PaintManagementSystem\bin\Debug\net9.0\PaintManagementSystem.deps.json
+C:\Users\16628\PaintManagementSystem\bin\Debug\net9.0\PaintManagementSystem.runtimeconfig.json
+C:\Users\16628\PaintManagementSystem\bin\Debug\net9.0\PaintManagementSystem.dll
+C:\Users\16628\PaintManagementSystem\bin\Debug\net9.0\PaintManagementSystem.pdb
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.AssemblyInfoInputs.cache
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.AssemblyInfo.cs
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.dll
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\refint\PaintManagementSystem.dll
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.pdb
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\PaintManagementSystem.genruntimeconfig.cache
+C:\Users\16628\PaintManagementSystem\obj\Debug\net9.0\ref\PaintManagementSystem.dll
