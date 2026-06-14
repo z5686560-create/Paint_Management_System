@@ -1,6 +1,6 @@
 public enum PaintType
 {
     BaseCoat,
-    Gossy,
+    Glossy,
     Matte
 }
